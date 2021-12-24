@@ -11,7 +11,7 @@ Some of my Genuary pieces - starting 2022
 
 ### 1st
 ```
-Draw 10,000 of something.
+Draw 10,000 of something. (credit: Michael Lowe)
 ```
 ~~Well I guess I'd better get started then! 10,000 will surely take a while!~~
 
@@ -20,4 +20,22 @@ It sure did - almost 2 hours of simulating and tweaking parameters later and I c
 ![01st Genuary Thumbnail](https://user-images.githubusercontent.com/25611707/147352006-1d4ff00c-2664-4bba-8d34-3ca78094af78.png)
 
 | [Full Scale Image](https://raw.githubusercontent.com/Magnogen/Genuary-Projects/Magnogen-1st-2022/images/finals/01st%20Genuary.png) | [Twitter Thread](https://twitter.com/Magnogen1/status/1474335760228700163) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/NuPtjPJWI) |
+|-|-|-|
+
+### 2nd
+```
+Dithering. (credit: Anna Lucia)
+```
+I've never delt with Dithering before, I wonder how I could do this...
+
+| ~~Full Scale Image~~ | ~~Twitter Thread~~ | ~~Code (editor.p5js.org)~~ |
+|-|-|-|
+
+### 3rd
+```
+Space. (credit: Lionel Radisson)
+```
+Ooo, I like stars! I wonder what I could do with this...
+
+| ~~Full Scale Image~~ | ~~Twitter Thread~~ | ~~Code (editor.p5js.org)~~ |
 |-|-|-|
