@@ -26,9 +26,13 @@ It sure did - almost 2 hours of simulating and tweaking parameters later and I c
 ```
 Dithering. (credit: Anna Lucia)
 ```
-I've never delt with Dithering before, I wonder how I could do this...
+~~I've never delt with Dithering before, I wonder how I could do this...~~
 
-| ~~Full Scale Image~~ | ~~Twitter Thread~~ | ~~Code (editor.p5js.org)~~ |
+That was fun! I think I might use dithering in future projects - it's surprisingly simple anyways
+
+![02nd Genuary Thumbnail](https://user-images.githubusercontent.com/25611707/147674736-543614c1-8c88-40fd-baac-603bf9eeb093.png)
+
+| [Full Scale Image](https://raw.githubusercontent.com/Magnogen/Genuary-Projects/Magnogen-2nd-2022/images/finals/02nd%20Genuary.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1476166073825247235) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/mQa5Tet3D) |
 |-|-|-|
 
 ### 3rd
@@ -36,6 +40,15 @@ I've never delt with Dithering before, I wonder how I could do this...
 Space. (credit: Lionel Radisson)
 ```
 Ooo, I like stars! I wonder what I could do with this...
+
+| ~~Full Scale Image~~ | ~~Twitter Thread~~ | ~~Code (editor.p5js.org)~~ |
+|-|-|-|
+
+### 4th
+```
+The next next Fidenza. (credit: Alexis André)
+```
+Whats a Fidenza? _* typing *_ Ohhhhh. That looks hard. Cool tho
 
 | ~~Full Scale Image~~ | ~~Twitter Thread~~ | ~~Code (editor.p5js.org)~~ |
 |-|-|-|
