@@ -39,9 +39,13 @@ That was fun! I think I might use dithering in future projects - it's surprising
 ```
 Space. (credit: Lionel Radisson)
 ```
-Ooo, I like stars! I wonder what I could do with this...
+~~Ooo, I like stars! I wonder what I could do with this...~~
 
-| ~~Full Scale Image~~ | ~~Twitter Thread~~ | ~~Code (editor.p5js.org)~~ |
+I had lots of fun with this. I've been having fun with all of these actually... Hm...
+
+![02nd Genuary Thumbnail](https://user-images.githubusercontent.com/25611707/147674736-543614c1-8c88-40fd-baac-603bf9eeb093.png)
+
+| [Full Scale Image]() | [Twitter Thread](https://twitter.com/Magnog3n/status/1476574675631288324) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/0R_R7W30A) |
 |-|-|-|
 
 ### 4th
