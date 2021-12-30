@@ -1,18 +1,8 @@
 // jshint esversion: 10
 
-let img
 let last = performance.now()
 
-function preload() {
-  img = loadImage('clouds.png')
-}
-
 async function setup() {
-  // createCanvas(img.height/2, img.height/2)
-  // let C = createGraphics(img.height/6, img.height/6)
-  // img.resize(0, C.height)
-  // C.image(img, -C.width/6, 0)
-  
   createCanvas(1920, 1920)
   let C = createGraphics(width/8, height/8)
   
