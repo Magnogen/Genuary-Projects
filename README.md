@@ -55,5 +55,16 @@ The next next Fidenza. (credit: Alexis André)
 ```
 Whats a Fidenza? _* typing *_ Ohhhhh. That looks hard. Cool tho
 
+Having some trouble with this, I'll move on to the next prompt and keep this one on a back-burner 
+
+| ~~Full Scale Image~~ | ~~Twitter Thread~~ | ~~Code (editor.p5js.org)~~ |
+|-|-|-|
+
+### 5th
+```
+Destroy a square. (credit: Thomas Lin Pedersen)
+```
+_* Gets out TNT * mwuhahahaha- cough cough_
+
 | ~~Full Scale Image~~ | ~~Twitter Thread~~ | ~~Code (editor.p5js.org)~~ |
 |-|-|-|
