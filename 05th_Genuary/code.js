@@ -60,9 +60,9 @@ async function setup() {
       let L = 4*(Math.max(x-1, 0)       + y*width)
       let R = 4*(Math.min(x+1, width-1) + y*width)
       
-      pixels[i + 0] = Math.min(pixels[L + 0], pixels[R + 0], pixels[U + 0], pixels[D + 0]) + 2
-      pixels[i + 1] = Math.min(pixels[L + 1], pixels[R + 1], pixels[U + 1], pixels[D + 1]) + 2
-      pixels[i + 2] = Math.min(pixels[L + 2], pixels[R + 2], pixels[U + 2], pixels[D + 2]) + 2
+      pixels[i + 0] = Math.min(pixels[L + 0], pixels[R + 0], pixels[U + 0], pixels[D + 0])
+      pixels[i + 1] = Math.min(pixels[L + 1], pixels[R + 1], pixels[U + 1], pixels[D + 1])
+      pixels[i + 2] = Math.min(pixels[L + 2], pixels[R + 2], pixels[U + 2], pixels[D + 2])
       
     }
     updatePixels()
