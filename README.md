@@ -6,8 +6,8 @@ Some of my Genuary pieces - starting 2022
 
 ## [Genuary-2022](https://genuary2022.github.io)
 
-| [1st](#1st) | [2nd](#2nd) | [3rd](#3rd) | ... |
-|-|-|-|-|
+| [1st](#1st) | [2nd](#2nd) | [3rd](#3rd) | [4th](#4th) | [5th](#5th) | ... |
+|-|-|-|-|-|-|
 
 ### 1st
 ```
@@ -64,7 +64,31 @@ Having some trouble with this, I'll move on to the next prompt and keep this one
 ```
 Destroy a square. (credit: Thomas Lin Pedersen)
 ```
-_* Gets out TNT * mwuhahahaha- cough cough_
+~~_* Gets out TNT * mwuhahahaha- cough cough_~~
+
+I honestly had a lot of fun with this, probably why its a few days late haha
+
+![5th Genuaru Thumbnail](https://user-images.githubusercontent.com/25611707/148258838-8ceecaab-cafc-45b5-867a-f48fd7629e66.png)
+
+I also did another variant - a circle!
+
+![5th Genuaru Alternate Thumbnail](https://user-images.githubusercontent.com/25611707/148258931-a809a31d-dd83-4310-a622-51b82f9d02a8.png)
+
+| [Full Scale Image](https://github.com/Magnogen/Genuary-Projects/raw/main/05th_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1477629093839609859?s=20) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/hFXqLr9ER) |
+|-|-|-|
+
+### 5th
+```
+Trade styles with a friend. (credit: Alex Naka)
+
+[Leap!]
+```
+I'm doing a collab with my friend, [Todepond](https://github.com/l2wilson94)! We're trading themes, I'll be doing his ("Leap!"), and he'll be doing mine ("Before vs After!")
+
+I wonder how that will go...
 
 | ~~Full Scale Image~~ | ~~Twitter Thread~~ | ~~Code (editor.p5js.org)~~ |
+|-|-|-|
+
+| ~~TodePond's Art~~ | ~~TodePond's Twitter Thread~~ | ~~TodePond's Code~~ |
 |-|-|-|
