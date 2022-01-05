@@ -7,22 +7,29 @@ async function setup() {
   pixelDensity(1)
   
   let seed = ~~random(0, 1000000)
-  seed = 287676
+  seed = 287675
   console.log(seed)
   randomSeed(seed)
   
   background(220)
   
-  fill(0)
+  fill(35)
   rect(width * 0.1, height * 0.1, width * 0.8, height * 0.8)
   
-  stroke(220)
-  for (let _ of [...Array(30)]) {
+  stroke(255)
+  for (let _ of [...Array(35)]) {
     strokeWeight(random(4, 8)*width/400)
     line(random(width*0.1, width*0.9), 0, random(width*0.1, width*0.9), height)
     line(0, random(height*0.1, height*0.9), width, random(height*0.1, height*0.9))
     await new Promise(requestAnimationFrame)
   }
+  
+  fill(220)
+    noStroke()
+    rect(0, 0, width*0.1, height)
+    rect(0, 0, width, height*0.1)
+    rect(width, height, -width, -height*0.1)
+    rect(width, height, -width*0.1, -height)
   
   let coords = [...Array(width*height)].map((e, i) => ({
     i: 4*i, x: i%width, y: Math.floor(i/width)
@@ -32,9 +39,30 @@ async function setup() {
   
   loadPixels()
   for (let {x, y, i} of coords) {
-    pixels[i + 0] = 255-((255-pixels[i + 0]) * random())
-    pixels[i + 1] = 255-((255-pixels[i + 1]) * random())
-    pixels[i + 2] = 255-((255-pixels[i + 2]) * random())
+    
+    let col = new Colour('hsl', random(360), 1, 0.5)
+    
+    if (pixels[i] > 200) {
+      if (random() < 0.0002) {
+        if (x < width*0.1 || x > width*0.9) continue
+        if (y < height*0.1 || y > height*0.9) continue
+        pixels[i + 0] = col.r
+        pixels[i + 1] = col.g
+        pixels[i + 2] = col.b
+        pixels[i + 0] = Math.max(35, pixels[i + 0])
+        pixels[i + 1] = Math.max(35, pixels[i + 1])
+        pixels[i + 2] = Math.max(35, pixels[i + 2])
+      }
+      continue
+    }
+    
+    pixels[i + 0] = 255-((255-pixels[i + 0]) * col.r)
+    pixels[i + 1] = 255-((255-pixels[i + 1]) * col.g)
+    pixels[i + 2] = 255-((255-pixels[i + 2]) * col.b)
+      
+    pixels[i + 0] = Math.max(35, pixels[i + 0])
+    pixels[i + 1] = Math.max(35, pixels[i + 1])
+    pixels[i + 2] = Math.max(35, pixels[i + 2])
 
     let now = performance.now()
     if (now - last > 1000/30) {
@@ -45,7 +73,11 @@ async function setup() {
   }
   updatePixels()
   
-  coords.sort(a => random(-1, 1))
+  function fy(a,b,c,d){//array,placeholder,placeholder,placeholder
+    c=a.length;while(c)b=random()*(--c+1)|0,d=a[c],a[c]=a[b],a[b]=d;
+  }
+  
+  fy(coords)
   
   let iter = 0
   do {
@@ -64,11 +96,26 @@ async function setup() {
       pixels[i + 1] = Math.min(pixels[L + 1], pixels[R + 1], pixels[U + 1], pixels[D + 1])
       pixels[i + 2] = Math.min(pixels[L + 2], pixels[R + 2], pixels[U + 2], pixels[D + 2])
       
+      let now = performance.now()
+      if (now - last > 1000/30) {
+        last = now
+        updatePixels()
+        await new Promise(requestAnimationFrame)
+      }
     }
     updatePixels()
     
-  // } while (true)
-  } while (iter < Math.floor(width/192))
-  console.log('done')
+    console.log(`iteration ${iter} done`)
+    
+  } while (iter < Math.floor(0.9*width/192))
+    
+    fill(220)
+    noStroke()
+    rect(0, 0, width*0.1, height)
+    rect(0, 0, width, height*0.1)
+    rect(width, height, -width, -height*0.1)
+    rect(width, height, -width*0.1, -height)
+    
+  console.log('all done')
   
 }
