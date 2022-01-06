@@ -6,8 +6,8 @@ Some of my Genuary pieces - starting 2022
 
 ## [Genuary-2022](https://genuary2022.github.io)
 
-| [1st](#1st) | [2nd](#2nd) | [3rd](#3rd) | [4th](#4th) | [5th](#5th) | ... |
-|-|-|-|-|-|-|
+| [1st](#1st) | [2nd](#2nd) | [3rd](#3rd) | [4th](#4th) | [5th](#5th) | [6th](#6th) | ... |
+|-|-|-|-|-|-|-|
 
 ### 1st
 ```
@@ -77,7 +77,7 @@ I also did another variant - a circle!
 | [Full Scale Image](https://github.com/Magnogen/Genuary-Projects/raw/main/05th_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1477629093839609859?s=20) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/hFXqLr9ER) |
 |-|-|-|
 
-### 5th
+### 6th
 ```
 Trade styles with a friend. (credit: Alex Naka)
 
@@ -96,3 +96,12 @@ It went well! I didn't know what to do to start off with, and tried doing someth
 
 | [TodePond's Repo](https://github.com/l2wilson94/Genuary) | [TodePond's Twitter Post](https://twitter.com/todepond/status/1479034166117343233) |
 |-|-|
+
+### 7th
+```
+Sol LeWitt Wall Drawing. (credit: Roni Kaufman)
+```
+Hm... Time for some 3D?
+
+| ~~Full Scale Image~~ | ~~Twitter Thread~~ | ~~Code (editor.p5js.org)~~ |
+|-|-|-|
