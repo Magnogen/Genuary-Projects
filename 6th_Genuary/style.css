@@ -1,0 +1,9 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  max-width: min(80vh, 80vw);
+  max-height: min(80vh, 80vw);
+}
