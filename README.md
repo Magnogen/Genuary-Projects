@@ -85,10 +85,14 @@ Trade styles with a friend. (credit: Alex Naka)
 ```
 I'm doing a collab with my friend, [Todepond](https://github.com/l2wilson94)! We're trading themes, I'll be doing his ("Leap!"), and he'll be doing mine ("Before vs After!")
 
-I wonder how that will go...
+~~I wonder how that will go...~~
 
-| ~~Full Scale Image~~ | ~~Twitter Thread~~ | ~~Code (editor.p5js.org)~~ |
+It went well! I didn't know what to do to start off with, and tried doing something that was _way_ too ambitious. The final result is quite nice tho
+
+![6th Genuary Thumbnail](https://user-images.githubusercontent.com/25611707/148400552-b7e8e8ae-b09c-41ba-9ef8-a81f1ab7a526.png)
+
+| [Full Scale Image](https://github.com/Magnogen/Genuary-Projects/raw/main/06th_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1479056788884492288) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/dLkJ2Iu94) |
 |-|-|-|
 
-| ~~TodePond's Art~~ | ~~TodePond's Twitter Thread~~ | ~~TodePond's Code~~ |
-|-|-|-|
+| [TodePond's Repo](https://github.com/l2wilson94/Genuary) | [TodePond's Twitter Post](https://twitter.com/todepond/status/1479034166117343233) |
+|-|-|
