@@ -19,7 +19,7 @@ It sure did - almost 2 hours of simulating and tweaking parameters later and I c
 
 ![01st Genuary Thumbnail](https://user-images.githubusercontent.com/25611707/147352006-1d4ff00c-2664-4bba-8d34-3ca78094af78.png)
 
-| [Full Scale Image](https://github.com/Magnogen/Genuary-Projects/raw/main/01st_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnogen1/status/1474335760228700163) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/NuPtjPJWI) |
+| [Full Scale Image](https://raw.githubusercontent.com/Magnogen/Genuary-Projects/main/01st_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnogen1/status/1474335760228700163) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/NuPtjPJWI) |
 |-|-|-|
 
 ### 2nd
@@ -32,7 +32,7 @@ That was fun! I think I might use dithering in future projects - it's surprising
 
 ![02nd Genuary Thumbnail](https://user-images.githubusercontent.com/25611707/147674736-543614c1-8c88-40fd-baac-603bf9eeb093.png)
 
-| [Full Scale Image](https://github.com/Magnogen/Genuary-Projects/raw/main/02nd_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1476166073825247235) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/mQa5Tet3D) |
+| [Full Scale Image](https://raw.githubusercontent.com/Magnogen/Genuary-Projects/main/02nd_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1476166073825247235) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/mQa5Tet3D) |
 |-|-|-|
 
 ### 3rd
@@ -46,7 +46,7 @@ I had lots of fun with this. I've been having fun with all of these actually... 
 ![03rd Genuary Thumbnail](https://user-images.githubusercontent.com/25611707/147774643-ee3ec0b1-7283-4cf3-bbe1-25a2ae857143.png)
 
 
-| [Full Scale Image](https://github.com/Magnogen/Genuary-Projects/raw/main/03rd_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1476574675631288324) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/0R_R7W30A) |
+| [Full Scale Image](https://raw.githubusercontent.com/Magnogen/Genuary-Projects/main/03rd_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1476574675631288324) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/0R_R7W30A) |
 |-|-|-|
 
 ### 4th
@@ -68,13 +68,13 @@ Destroy a square. (credit: Thomas Lin Pedersen)
 
 I honestly had a lot of fun with this, probably why its a few days late haha
 
-![5th Genuaru Thumbnail](https://user-images.githubusercontent.com/25611707/148258838-8ceecaab-cafc-45b5-867a-f48fd7629e66.png)
+![5th Genuary Thumbnail](https://user-images.githubusercontent.com/25611707/148258838-8ceecaab-cafc-45b5-867a-f48fd7629e66.png)
 
 I also did another variant - a circle!
 
-![5th Genuaru Alternate Thumbnail](https://user-images.githubusercontent.com/25611707/148258931-a809a31d-dd83-4310-a622-51b82f9d02a8.png)
+![5th Genuary Alternate Thumbnail](https://user-images.githubusercontent.com/25611707/148258931-a809a31d-dd83-4310-a622-51b82f9d02a8.png)
 
-| [Full Scale Image](https://github.com/Magnogen/Genuary-Projects/raw/main/05th_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1477629093839609859?s=20) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/hFXqLr9ER) |
+| [Full Scale Image](https://raw.githubusercontent.com/Magnogen/Genuary-Projects/main/05th_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1477629093839609859?s=20) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/hFXqLr9ER) |
 |-|-|-|
 
 ### 6th
@@ -91,7 +91,7 @@ It went well! I didn't know what to do to start off with, and tried doing someth
 
 ![6th Genuary Thumbnail](https://user-images.githubusercontent.com/25611707/148400552-b7e8e8ae-b09c-41ba-9ef8-a81f1ab7a526.png)
 
-| [Full Scale Image](https://github.com/Magnogen/Genuary-Projects/raw/main/06th_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1479056788884492288) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/dLkJ2Iu94) |
+| [Full Scale Image](https://raw.githubusercontent.com/Magnogen/Genuary-Projects/main/06th_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1479056788884492288) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/dLkJ2Iu94) |
 |-|-|-|
 
 | [TodePond's Repo](https://github.com/l2wilson94/Genuary) | [TodePond's Twitter Post](https://twitter.com/todepond/status/1479034166117343233) |
