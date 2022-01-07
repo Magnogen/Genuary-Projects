@@ -6,8 +6,9 @@ Some of my Genuary pieces - starting 2022
 
 ## [Genuary-2022](https://genuary2022.github.io)
 
-| [1st](#1st) | [2nd](#2nd) | [3rd](#3rd) | [4th](#4th) | [5th](#5th) | [6th](#6th) | ... |
-|-|-|-|-|-|-|-|
+| **[1st](#1st)** | **[2nd](#2nd)** | **[3rd](#3rd)** | **[4th](#4th)** | **[5th](#5th)** |
+|       :-:       |       :-:       |       :-:       |       :-:       |       :-:       |
+| **[6th](#6th)** |     **...**     |                 |                 |                 |
 
 ### 1st
 ```
