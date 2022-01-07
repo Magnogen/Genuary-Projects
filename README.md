@@ -8,7 +8,7 @@ Some of my Genuary pieces - starting 2022
 
 | **[1st](#1st)** | **[2nd](#2nd)** | **[3rd](#3rd)** | **[4th](#4th)** | **[5th](#5th)** |
 |       :-:       |       :-:       |       :-:       |       :-:       |       :-:       |
-| **[6th](#6th)** |     **...**     |                 |                 |                 |
+| **[6th](#6th)** | **[7th](#7th)** |     **...**     |                 |                 |
 
 ### [1st](http://genuary.art/prompts#jan1)
 ```
@@ -20,7 +20,7 @@ It sure did - almost 2 hours of simulating and tweaking parameters later and I c
 
 ![01st Genuary Thumbnail](https://user-images.githubusercontent.com/25611707/147352006-1d4ff00c-2664-4bba-8d34-3ca78094af78.png)
 
-| [Full Scale Image](https://raw.githubusercontent.com/Magnogen/Genuary-Projects/main/01st_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnogen1/status/1474335760228700163) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/NuPtjPJWI) |
+| [Full Scale Image](https://raw.githubusercontent.com/Magnogen/Genuary-Projects/main/01st_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1474335760228700163) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/NuPtjPJWI) |
 |-|-|-|
 
 ### [2nd](http://genuary.art/prompts#jan2)
@@ -104,8 +104,21 @@ Sol LeWitt Wall Drawing. (credit: Roni Kaufman)
 ```
 Hm... Time for some 3D?
 
+3D! WOO! I've never properly done any 3D stuff before. This has been an interesting learning experience...
+
+| [Full Scale Image](https://raw.githubusercontent.com/Magnogen/Genuary-Projects/main/07th_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1479393947394973699) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/ytA3lZimQ) |
+|-|-|-|
+
+### [8th](http://genuary.art/prompts#jan8)
+```
+Single curve only. (credit: Bruce Holmer)
+```
+Is it time for a Hilbert Curve?
+
 | ~~Full Scale Image~~ | ~~Twitter Thread~~ | ~~Code (editor.p5js.org)~~ |
 |-|-|-|
+
+<!--
 
 ### [Template](http://genuary.art/prompts#jan0)
 ```
@@ -115,3 +128,6 @@ Preliminary thoughts
 
 | ~~Full Scale Image~~ | ~~Twitter Thread~~ | ~~Code (editor.p5js.org)~~ |
 |-|-|-|
+</div>
+
+-->
