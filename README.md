@@ -10,7 +10,7 @@ Some of my Genuary pieces - starting 2022
 |       :-:       |       :-:       |       :-:       |       :-:       |       :-:       |
 | **[6th](#6th)** |     **...**     |                 |                 |                 |
 
-### 1st
+### [1st](http://genuary.art/prompts#jan1)
 ```
 Draw 10,000 of something. (credit: Michael Lowe)
 ```
@@ -23,7 +23,7 @@ It sure did - almost 2 hours of simulating and tweaking parameters later and I c
 | [Full Scale Image](https://raw.githubusercontent.com/Magnogen/Genuary-Projects/main/01st_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnogen1/status/1474335760228700163) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/NuPtjPJWI) |
 |-|-|-|
 
-### 2nd
+### [2nd](http://genuary.art/prompts#jan2)
 ```
 Dithering. (credit: Anna Lucia)
 ```
@@ -36,7 +36,7 @@ That was fun! I think I might use dithering in future projects - it's surprising
 | [Full Scale Image](https://raw.githubusercontent.com/Magnogen/Genuary-Projects/main/02nd_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1476166073825247235) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/mQa5Tet3D) |
 |-|-|-|
 
-### 3rd
+### [3rd](http://genuary.art/prompts#jan3)
 ```
 Space. (credit: Lionel Radisson)
 ```
@@ -50,7 +50,7 @@ I had lots of fun with this. I've been having fun with all of these actually... 
 | [Full Scale Image](https://raw.githubusercontent.com/Magnogen/Genuary-Projects/main/03rd_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1476574675631288324) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/0R_R7W30A) |
 |-|-|-|
 
-### 4th
+### [4th](http://genuary.art/prompts#jan4)
 ```
 The next next Fidenza. (credit: Alexis André)
 ```
@@ -61,7 +61,7 @@ Having some trouble with this, I'll move on to the next prompt and keep this one
 | ~~Full Scale Image~~ | ~~Twitter Thread~~ | ~~Code (editor.p5js.org)~~ |
 |-|-|-|
 
-### 5th
+### [5th](http://genuary.art/prompts#jan5)
 ```
 Destroy a square. (credit: Thomas Lin Pedersen)
 ```
@@ -78,7 +78,7 @@ I also did another variant - a circle!
 | [Full Scale Image](https://raw.githubusercontent.com/Magnogen/Genuary-Projects/main/05th_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1477629093839609859?s=20) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/hFXqLr9ER) |
 |-|-|-|
 
-### 6th
+### [6th](http://genuary.art/prompts#jan6)
 ```
 Trade styles with a friend. (credit: Alex Naka)
 
@@ -98,11 +98,20 @@ It went well! I didn't know what to do to start off with, and tried doing someth
 | [TodePond's Repo](https://github.com/l2wilson94/Genuary) | [TodePond's Twitter Post](https://twitter.com/todepond/status/1479034166117343233) |
 |-|-|
 
-### 7th
+### [7th](http://genuary.art/prompts#jan7)
 ```
 Sol LeWitt Wall Drawing. (credit: Roni Kaufman)
 ```
 Hm... Time for some 3D?
+
+| ~~Full Scale Image~~ | ~~Twitter Thread~~ | ~~Code (editor.p5js.org)~~ |
+|-|-|-|
+
+### [Template](http://genuary.art/prompts#jan0)
+```
+Theme
+```
+Preliminary thoughts
 
 | ~~Full Scale Image~~ | ~~Twitter Thread~~ | ~~Code (editor.p5js.org)~~ |
 |-|-|-|
