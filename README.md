@@ -106,6 +106,8 @@ Hm... Time for some 3D?
 
 3D! WOO! I've never properly done any 3D stuff before. This has been an interesting learning experience...
 
+![7th Genuary Thumbnail](https://user-images.githubusercontent.com/25611707/148556077-715f1c75-7d05-4226-9975-0989584c0d3c.png)
+
 | [Full Scale Image](https://raw.githubusercontent.com/Magnogen/Genuary-Projects/main/07th_Genuary/final.png) | [Twitter Thread](https://twitter.com/Magnog3n/status/1479393947394973699) | [Code (editor.p5js.org)](https://editor.p5js.org/Magnogen/sketches/ytA3lZimQ) |
 |-|-|-|
 
